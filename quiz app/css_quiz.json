@@ -1,82 +1,351 @@
 [
-    {
-        "title":"Why we use <br> Element c",
-        "answer_1":"To Make Text Bold",
-        "answer_2":"To Make Text Italic",
-        "answer_3":"To Add Breakline",
-        "answer_4":"To Add Horizontal Line",
-        "right_answer":"To Make Text Bold"
-    },
-    {
-        "title":"Why we use <br> Element 1 c",
-        "answer_1":"To Make Text Bold",
-        "answer_2":"To Make Text Italic",
-        "answer_3":"To Add Breakline",
-        "answer_4":"To Add Horizontal Line",
-        "right_answer":"To Make Text Bold"
-    },
-    {
-        "title":"Why we use <br> Element 2 c",
-        "answer_1":"To Make Text Bold",
-        "answer_2":"To Make Text Italic",
-        "answer_3":"To Add Breakline",
-        "answer_4":"To Add Horizontal Line",
-        "right_answer":"To Make Text Bold"
-    },
-    {
-        "title":"Why we use <br> Element 3 c",
-        "answer_1":"To Make Text Bold",
-        "answer_2":"To Make Text Italic",
-        "answer_3":"To Add Breakline",
-        "answer_4":"To Add Horizontal Line",
-        "right_answer":"To Make Text Bold"
-    },
-    {
-        "title":"Why we use <br> Element 4 c",
-        "answer_1":"To Make Text Bold",
-        "answer_2":"To Make Text Italic",
-        "answer_3":"To Add Breakline",
-        "answer_4":"To Add Horizontal Line",
-        "right_answer":"To Make Text Bold"
-    },
-    {
-        "title":"Why we use <br> Element 4 c",
-        "answer_1":"To Make Text Bold",
-        "answer_2":"To Make Text Italic",
-        "answer_3":"To Add Breakline",
-        "answer_4":"To Add Horizontal Line",
-        "right_answer":"To Make Text Bold"
-    },
-    {
-        "title":"Why we use <br> Element 6 c",
-        "answer_1":"To Make Text Bold",
-        "answer_2":"To Make Text Italic",
-        "answer_3":"To Add Breakline",
-        "answer_4":"To Add Horizontal Line",
-        "right_answer":"To Make Text Bold"
-    },
-    {
-        "title":"Why we use <br> Element 7 c",
-        "answer_1":"To Make Text Bold",
-        "answer_2":"To Make Text Italic",
-        "answer_3":"To Add Breakline",
-        "answer_4":"To Add Horizontal Line",
-        "right_answer":"To Make Text Bold"
-    },
-    {
-        "title":"Why we use <br> Element 8 c",
-        "answer_1":"To Make Text Bold",
-        "answer_2":"To Make Text Italic",
-        "answer_3":"To Add Breakline",
-        "answer_4":"To Add Horizontal Line",
-        "right_answer":"To Make Text Bold"
-    },
-    {
-        "title":"Why we use <br> Element 9 c",
-        "answer_1":"To Make Text Bold",
-        "answer_2":"To Make Text Italic",
-        "answer_3":"To Add Breakline",
-        "answer_4":"To Add Horizontal Line",
-        "right_answer":"To Make Text Bold"
-    }
+  {
+    "title": "What does the 'color' property in CSS control?",
+    "answer_1": "Text color",
+    "answer_2": "Background color",
+    "answer_3": "Border color",
+    "answer_4": "Padding",
+    "right_answer": "Text color"
+  },
+  {
+    "title": "Which property is used to change the background color?",
+    "answer_1": "color",
+    "answer_2": "background-color",
+    "answer_3": "border-color",
+    "answer_4": "text-color",
+    "right_answer": "background-color"
+  },
+  {
+    "title": "Which property adds space inside an element?",
+    "answer_1": "padding",
+    "answer_2": "margin",
+    "answer_3": "border",
+    "answer_4": "outline",
+    "right_answer": "padding"
+  },
+  {
+    "title": "Which property controls the space outside an element?",
+    "answer_1": "padding",
+    "answer_2": "margin",
+    "answer_3": "border",
+    "answer_4": "width",
+    "right_answer": "margin"
+  },
+  {
+    "title": "What value of 'position' keeps an element in place while scrolling?",
+    "answer_1": "relative",
+    "answer_2": "fixed",
+    "answer_3": "absolute",
+    "answer_4": "static",
+    "right_answer": "fixed"
+  },
+  {
+    "title": "Which CSS property is used to hide an element?",
+    "answer_1": "display: none;",
+    "answer_2": "visibility: visible;",
+    "answer_3": "opacity: 1;",
+    "answer_4": "z-index: 0;",
+    "right_answer": "display: none;"
+  },
+  {
+    "title": "What does 'z-index' control?",
+    "answer_1": "Element size",
+    "answer_2": "Stacking order",
+    "answer_3": "Font style",
+    "answer_4": "Margin",
+    "right_answer": "Stacking order"
+  },
+  {
+    "title": "Which unit is relative to the parent font size?",
+    "answer_1": "px",
+    "answer_2": "em",
+    "answer_3": "%",
+    "answer_4": "cm",
+    "right_answer": "em"
+  },
+  {
+    "title": "What does 'display: flex;' do?",
+    "answer_1": "Creates a grid",
+    "answer_2": "Applies shadow",
+    "answer_3": "Enables flexbox layout",
+    "answer_4": "Removes margin",
+    "right_answer": "Enables flexbox layout"
+  },
+  {
+    "title": "Which property changes the font style?",
+    "answer_1": "font-style",
+    "answer_2": "text-transform",
+    "answer_3": "font-weight",
+    "answer_4": "line-height",
+    "right_answer": "font-style"
+  },
+ { "title": "What does the 'color' property in CSS control?",
+  "answer_1": "Text color",
+  "answer_2": "Background color",
+   "answer_3": "Border color", 
+   "answer_4": "Padding", 
+   "right_answer": "Text color" }, 
+   { "title": "Which property is used to change the background color?", 
+   "answer_1": "color", 
+   "answer_2": "background-color", 
+   "answer_3": "border-color", 
+   "answer_4": "text-color", 
+   "right_answer": "background-color" }, 
+   { "title": "Which property adds space inside an element?", 
+   "answer_1": "padding", 
+   "answer_2": "margin", 
+   "answer_3": "border", 
+   "answer_4": "outline", 
+   "right_answer": "padding" }, 
+   { "title": "Which property controls the space outside an element?", 
+   "answer_1": "padding", 
+   "answer_2": "margin", 
+   "answer_3": "border", 
+   "answer_4": "width", 
+   "right_answer": "margin" }, 
+   { "title": "What value of 'position' keeps an element in place while scrolling?", 
+   "answer_1": "relative", 
+   "answer_2": "fixed", 
+   "answer_3": "absolute", 
+   "answer_4": "static", 
+   "right_answer": "fixed" }, 
+   { "title": "Which CSS property is used to hide an element?", 
+   "answer_1": "display: none;", 
+   "answer_2": "visibility: visible;", 
+   "answer_3": "opacity: 1;", 
+   "answer_4": "z-index: 0;", 
+   "right_answer": "display: none;" }, 
+   { "title": "What does 'z-index' control?", 
+   "answer_1": "Element size", 
+   "answer_2": "Stacking order", 
+   "answer_3": "Font style", 
+   "answer_4": "Margin", 
+   "right_answer": "Stacking order" }, 
+   { "title": "Which unit is relative to the parent font size?", 
+   "answer_1": "px", 
+   "answer_2": "em", 
+   "answer_3": "%", 
+   "answer_4": "cm", 
+   "right_answer": "em" }, 
+   { "title": "What does 'display: flex;' do?", 
+   "answer_1": "Creates a grid", 
+   "answer_2": "Applies shadow", 
+   "answer_3": "Enables flexbox layout", 
+   "answer_4": "Removes margin", 
+   "right_answer": "Enables flexbox layout" }, 
+   { "title": "Which property changes the font style?", 
+   "answer_1": "font-style", 
+   "answer_2": "text-transform", 
+   "answer_3": "font-weight", 
+   "answer_4": "line-height", 
+   "right_answer": "font-style" }, 
+   { "title": "Which CSS property adds a shadow to text?", 
+   "answer_1": "text-shadow", 
+   "answer_2": "box-shadow", 
+   "answer_3": "opacity", 
+   "answer_4": "filter", 
+   "right_answer": "text-shadow" }, 
+   { "title": "Which CSS property is used to underline text?", 
+   "answer_1": "text-decoration", 
+   "answer_2": "text-style", 
+   "answer_3": "font-decoration", 
+   "answer_4": "text-shadow", 
+   "right_answer": "text-decoration" }, 
+   { "title": "Which value of 'display' creates a block-level element?", 
+   "answer_1": "inline", 
+   "answer_2": "block", 
+   "answer_3": "flex", 
+   "answer_4": "grid", 
+   "right_answer": "block" }, 
+   { "title": "Which value of 'display' creates an inline element?", 
+   "answer_1": "inline", 
+   "answer_2": "block", 
+   "answer_3": "none", 
+   "answer_4": "grid", 
+   "right_answer": "inline" }, 
+   { "title": "How do you make a border rounded?", 
+   "answer_1": "border-style: round;", 
+   "answer_2": "border-radius:", 
+   "answer_3": "border-curve:", 
+   "answer_4": "border-width:", 
+   "right_answer": "border-radius:" }, 
+   { "title": "What does 'opacity: 0.5' do?", 
+   "answer_1": "Hides element", 
+   "answer_2": "Makes element semi-transparent", 
+   "answer_3": "Increases brightness", 
+   "answer_4": "Darkens element", 
+   "right_answer": "Makes element semi-transparent" }, 
+   { "title": "Which property is used to align text in the center?", 
+   "answer_1": "text-align", 
+   "answer_2": "align-text", 
+   "answer_3": "justify-content", 
+   "answer_4": "center", 
+   "right_answer": "text-align" }, 
+   { "title": "Which property sets the width of an element?", "answer_1": "width", "answer_2": "size", 
+   "answer_3": "length", "answer_4": "padding", "right_answer": "width" }, 
+   { "title": "Which CSS property adds a shadow around a box?", "answer_1": "box-shadow", "answer_2": "shadow", 
+   "answer_3": "border-shadow", "answer_4": "element-shadow", "right_answer": "box-shadow" }, 
+   { "title": "Which property changes the size of text?", "answer_1": "font-size", "answer_2": "text-size", 
+   "answer_3": "size", "answer_4": "font-weight", "right_answer": "font-size" },
+  {
+    "title": "What is the default position value of an HTML element?",
+    "answer_1": "relative",
+    "answer_2": "absolute",
+    "answer_3": "static",
+    "answer_4": "fixed",
+    "right_answer": "static"
+  },
+  {
+    "title": "Which property is used to change the font of text in CSS?",
+    "answer_1": "text-style",
+    "answer_2": "font-style",
+    "answer_3": "font-family",
+    "answer_4": "font-weight",
+    "right_answer": "font-family"
+  },
+  {
+    "title": "What does the z-index property control?",
+    "answer_1": "Font thickness",
+    "answer_2": "Stacking order",
+    "answer_3": "Background size",
+    "answer_4": "Text alignment",
+    "right_answer": "Stacking order"
+  },
+  {
+    "title": "Which value is NOT valid for the display property?",
+    "answer_1": "flex",
+    "answer_2": "inline-block",
+    "answer_3": "grid",
+    "answer_4": "float",
+    "right_answer": "float"
+  },
+  {
+    "title": "What is the use of the ::before pseudo-element?",
+    "answer_1": "Adds content before an element",
+    "answer_2": "Highlights the element",
+    "answer_3": "Moves the element down",
+    "answer_4": "Adds a border",
+    "right_answer": "Adds content before an element"
+  },
+  {
+    "title": "How to make a box have rounded corners?",
+    "answer_1": "border-radius",
+    "answer_2": "box-shadow",
+    "answer_3": "outline",
+    "answer_4": "border-style",
+    "right_answer": "border-radius"
+  },
+  {
+    "title": "Which unit is relative to the parent element's font size?",
+    "answer_1": "px",
+    "answer_2": "em",
+    "answer_3": "%",
+    "answer_4": "vh",
+    "right_answer": "em"
+  },
+  {
+    "title": "Which property is used to hide an element without removing it from layout?",
+    "answer_1": "opacity: 0",
+    "answer_2": "display: none",
+    "answer_3": "visibility: hidden",
+    "answer_4": "z-index: -1",
+    "right_answer": "visibility: hidden"
+  },
+  {
+    "title": "What is the difference between padding and margin?",
+    "answer_1": "Padding adds space outside an element, margin inside",
+    "answer_2": "Padding adds space inside an element, margin outside",
+    "answer_3": "They are the same",
+    "answer_4": "Padding sets the border, margin sets the text color",
+    "right_answer": "Padding adds space inside an element, margin outside"
+  },
+  {
+    "title": "How to apply a CSS rule to multiple elements?",
+    "answer_1": "Use #id1, #id2",
+    "answer_2": "Use tag1 tag2",
+    "answer_3": "Use .class1 .class2",
+    "answer_4": "Use selector1, selector2",
+    "right_answer": "Use selector1, selector2"
+  },
+  {
+    "title": "Which CSS property controls the space between letters?",
+    "answer_1": "letter-spacing",
+    "answer_2": "word-spacing",
+    "answer_3": "line-height",
+    "answer_4": "text-indent",
+    "right_answer": "letter-spacing"
+  },
+  {
+    "title": "How to make text all uppercase in CSS?",
+    "answer_1": "font-style: uppercase",
+    "answer_2": "text-transform: uppercase",
+    "answer_3": "text-case: upper",
+    "answer_4": "transform: text-upper",
+    "right_answer": "text-transform: uppercase"
+  },
+  {
+    "title": "What value of position makes the element stay in place when scrolling?",
+    "answer_1": "relative",
+    "answer_2": "fixed",
+    "answer_3": "absolute",
+    "answer_4": "static",
+    "right_answer": "fixed"
+  },
+  {
+    "title": "How do you apply a style only when an element is hovered?",
+    "answer_1": ":hover",
+    "answer_2": "::hover",
+    "answer_3": ":hovering",
+    "answer_4": "::hovering",
+    "right_answer": ":hover"
+  },
+  {
+    "title": "Which property controls shadow behind a box?",
+    "answer_1": "text-shadow",
+    "answer_2": "box-shadow",
+    "answer_3": "background-shadow",
+    "answer_4": "shadow",
+    "right_answer": "box-shadow"
+  },
+  {
+    "title": "Which CSS property controls the background image position?",
+    "answer_1": "background-position",
+    "answer_2": "image-align",
+    "answer_3": "background-align",
+    "answer_4": "position",
+    "right_answer": "background-position"
+  },
+  {
+    "title": "Which value of overflow hides extra content?",
+    "answer_1": "visible",
+    "answer_2": "hidden",
+    "answer_3": "scroll",
+    "answer_4": "auto",
+    "right_answer": "hidden"
+  },
+  {
+    "title": "What is the initial value of the display property for div elements?",
+    "answer_1": "inline",
+    "answer_2": "block",
+    "answer_3": "flex",
+    "answer_4": "none",
+    "right_answer": "block"
+  },
+  {
+    "title": "Which CSS property sets the space between lines of text?",
+    "answer_1": "line-height",
+    "answer_2": "letter-spacing",
+    "answer_3": "word-spacing",
+    "answer_4": "text-indent",
+    "right_answer": "line-height"
+  },
+  {
+    "title": "Which CSS property makes text italic?",
+    "answer_1": "font-weight",
+    "answer_2": "text-decoration",
+    "answer_3": "font-style",
+    "answer_4": "style",
+    "right_answer": "font-style"
+  }
 ]
+

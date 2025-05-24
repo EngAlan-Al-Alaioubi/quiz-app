@@ -1,82 +1,436 @@
 [
-    {
-        "title":"Why we use <br> Element",
-        "answer_1":"To Make Text Bold",
-        "answer_2":"To Make Text Italic",
-        "answer_3":"To Add Breakline",
-        "answer_4":"To Add Horizontal Line",
-        "right_answer":"To Make Text Bold"
-    },
-    {
-        "title":"Why we use <br> Element 1",
-        "answer_1":"To Make Text Bold",
-        "answer_2":"To Make Text Italic",
-        "answer_3":"To Add Breakline",
-        "answer_4":"To Add Horizontal Line",
-        "right_answer":"To Make Text Bold"
-    },
-    {
-        "title":"Why we use <br> Element 2",
-        "answer_1":"To Make Text Bold",
-        "answer_2":"To Make Text Italic",
-        "answer_3":"To Add Breakline",
-        "answer_4":"To Add Horizontal Line",
-        "right_answer":"To Make Text Bold"
-    },
-    {
-        "title":"Why we use <br> Element 3",
-        "answer_1":"To Make Text Bold",
-        "answer_2":"To Make Text Italic",
-        "answer_3":"To Add Breakline",
-        "answer_4":"To Add Horizontal Line",
-        "right_answer":"To Make Text Bold"
-    },
-    {
-        "title":"Why we use <br> Element 4",
-        "answer_1":"To Make Text Bold",
-        "answer_2":"To Make Text Italic",
-        "answer_3":"To Add Breakline",
-        "answer_4":"To Add Horizontal Line",
-        "right_answer":"To Make Text Bold"
-    },
-    {
-        "title":"Why we use <br> Element 4",
-        "answer_1":"To Make Text Bold",
-        "answer_2":"To Make Text Italic",
-        "answer_3":"To Add Breakline",
-        "answer_4":"To Add Horizontal Line",
-        "right_answer":"To Make Text Bold"
-    },
-    {
-        "title":"Why we use <br> Element 6",
-        "answer_1":"To Make Text Bold",
-        "answer_2":"To Make Text Italic",
-        "answer_3":"To Add Breakline",
-        "answer_4":"To Add Horizontal Line",
-        "right_answer":"To Make Text Bold"
-    },
-    {
-        "title":"Why we use <br> Element 7",
-        "answer_1":"To Make Text Bold",
-        "answer_2":"To Make Text Italic",
-        "answer_3":"To Add Breakline",
-        "answer_4":"To Add Horizontal Line",
-        "right_answer":"To Make Text Bold"
-    },
-    {
-        "title":"Why we use <br> Element 8",
-        "answer_1":"To Make Text Bold",
-        "answer_2":"To Make Text Italic",
-        "answer_3":"To Add Breakline",
-        "answer_4":"To Add Horizontal Line",
-        "right_answer":"To Make Text Bold"
-    },
-    {
-        "title":"Why we use <br> Element 9",
-        "answer_1":"To Make Text Bold",
-        "answer_2":"To Make Text Italic",
-        "answer_3":"To Add Breakline",
-        "answer_4":"To Add Horizontal Line",
-        "right_answer":"To Make Text Bold"
-    }
+  {
+    "title": "What does the <html> tag represent?",
+    "answer_1": "Defines a paragraph",
+    "answer_2": "Defines the body",
+    "answer_3": "Defines the root of an HTML document",
+    "answer_4": "Defines a line break",
+    "right_answer": "Defines the root of an HTML document"
+  },
+  {
+    "title": "Which tag is used to insert an image?",
+    "answer_1": "<img>",
+    "answer_2": "<image>",
+    "answer_3": "<pic>",
+    "answer_4": "<src>",
+    "right_answer": "<img>"
+  },
+  {
+    "title": "What attribute is used to provide alternative text for an image?",
+    
+    "answer_1": "title",
+    "answer_3": "src",
+    "answer_2": "alt",
+    "answer_4": "href",
+    "right_answer": "alt"
+  },
+  {
+    "title": "Which tag creates a numbered list?",
+    
+    "answer_1": "<ul>",
+
+    "answer_2": "<li>",
+    "answer_4": "<list>",
+    "answer_3": "<ol>",
+    "right_answer": "<ol>"
+  },
+  {
+    "title": "Which HTML tag defines the largest heading?",
+    
+    "answer_1": "<h6>",
+    "answer_2": "<h1>",
+    "answer_3": "<head>",
+    "answer_4": "<header>",
+    "right_answer": "<h1>"
+  },
+  {
+    "title": "Which tag is used to define a hyperlink?",
+    
+    "answer_1": "<link>",
+    "answer_3": "<href>",
+    "answer_2": "<a>",
+    "answer_4": "<hyper>",
+    "right_answer": "<a>"
+  },
+  {
+    "title": "Which attribute specifies the URL of the page the link goes to?",
+    "answer_1": "href",
+    "answer_2": "src",
+    "answer_3": "link",
+    "answer_4": "url",
+    "right_answer": "href"
+  },
+  {
+    "title": "Which tag is used to define a table?",
+    
+    "answer_1": "<tr>",
+    "answer_2": "<table>",
+    "answer_3": "<td>",
+    "answer_4": "<tab>",
+    "right_answer": "<table>"
+  },
+  {
+    "title": "Which tag defines a cell in a table?",
+    
+    "answer_2": "<tr>",
+    "answer_3": "<td>",
+    "answer_1": "<table>",
+    "answer_4": "<cell>",
+    "right_answer": "<td>"
+  },
+  {
+    "title": "What tag is used to define a form in HTML?",
+    
+    "answer_2": "<input>",
+    "answer_1": "<submit>",
+    "answer_3": "<form>",
+    "answer_4": "<textarea>",
+    "right_answer": "<form>"
+  },
+  {
+    "title": "What does the <html> tag represent?",
+    "answer_1": "Defines a paragraph",
+    "answer_2": "Defines the body",
+    "answer_3": "Defines the root of an HTML document",
+    "answer_4": "Defines a line break",
+    "right_answer": "Defines the root of an HTML document"
+  },
+  {
+    "title": "Which tag is used to insert an image?",
+    "answer_1": "<img>",
+    "answer_2": "<image>",
+    "answer_3": "<pic>",
+    "answer_4": "<src>",
+    "right_answer": "<img>"
+  },
+  {
+    "title": "What attribute is used to provide alternative text for an image?",
+    
+    "answer_1": "title",
+    "answer_3": "src",
+    "answer_2": "alt",
+    "answer_4": "href",
+    "right_answer": "alt"
+  },
+  {
+    "title": "Which tag creates a numbered list?",
+    
+    "answer_3": "<ul>",
+    "answer_1": "<ol>",
+    "answer_2": "<li>",
+    "answer_4": "<list>",
+    "right_answer": "<ol>"
+  },
+  {
+    "title": "Which HTML tag defines the largest heading?",
+    
+    "answer_1": "<h6>",
+    "answer_2": "<h1>",
+    "answer_3": "<head>",
+    "answer_4": "<header>",
+    "right_answer": "<h1>"
+  },
+  {
+    "title": "Which tag is used to define a hyperlink?",
+    
+    "answer_2": "<link>",
+    "answer_1": "<href>",
+    "answer_3": "<a>",
+    "answer_4": "<hyper>",
+    "right_answer": "<a>"
+  },
+  {
+    "title": "Which attribute specifies the URL of the page the link goes to?",
+    
+    "answer_2": "src",
+    "answer_3": "link",
+    "answer_1": "url",
+    "answer_4": "href",
+    "right_answer": "href"
+  },
+  {
+    "title": "Which tag is used to define a table?",
+    "answer_1": "<table>",
+    "answer_2": "<tr>",
+    "answer_3": "<td>",
+    "answer_4": "<tab>",
+    "right_answer": "<table>"
+  },
+  {
+    "title": "Which tag defines a cell in a table?",
+    
+    "answer_1": "<tr>",
+    "answer_2": "<td>",
+    "answer_3": "<table>",
+    "answer_4": "<cell>",
+    "right_answer": "<td>"
+  },
+  {
+    "title": "What tag is used to define a form in HTML?",
+    
+    "answer_1": "<input>",
+    "answer_3": "<submit>",
+    "answer_2": "<textarea>",
+    "answer_4": "<form>",
+    "right_answer": "<form>"
+  },
+  {
+    "title": "Which input type is used for entering an email?",
+    "answer_1": "text",
+    "answer_2": "email",
+    "answer_3": "mail",
+    "answer_4": "input",
+    "right_answer": "email"
+  },
+  {
+    "title": "What is the correct way to comment in HTML?",
+    "answer_1": "<!-- This is a comment -->",
+    "answer_2": "// This is a comment",
+    "answer_3": "# This is a comment",
+    "answer_4": " This is a comment ",
+    "right_answer": "<!-- This is a comment -->"
+  },
+  {
+    "title": "Which tag is used to define a dropdown list?",
+    
+    "answer_1": "<input type='dropdown'>",
+    "answer_2": "<dropdown>",
+    "answer_3": "<select>",
+    "answer_4": "<option>",
+    "right_answer": "<select>"
+  },
+  {
+    "title": "Which tag defines an option in a dropdown list?",
+    
+    "answer_2": "<select>",
+    "answer_3": "<input>",
+    "answer_4": "<list>",
+    "answer_1": "<option>",
+    "right_answer": "<option>"
+  },
+  {
+    "title": "What is the purpose of the <head> tag?",
+    "answer_1": "Contains metadata about the document",
+    "answer_2": "Displays the main content",
+    "answer_3": "Adds background color",
+    "answer_4": "Creates a header",
+    "right_answer": "Contains metadata about the document"
+  },
+  {
+    "title": "What does the <title> tag define?",
+    
+    "answer_1": "The title inside the page body",
+    "answer_2": "A tooltip",
+    "answer_3": "The title shown on the browser tab",
+    "answer_4": "An image caption",
+    "right_answer": "The title shown on the browser tab"
+  },
+  {
+    "title": "Which tag is used to create a line break?",
+    "answer_1": "<br>",
+    "answer_2": "<hr>",
+    "answer_3": "<lb>",
+    "answer_4": "<line>",
+    "right_answer": "<br>"
+  },
+  {
+    "title": "Which tag creates a horizontal line?",
+    
+    "answer_1": "<line>",
+    "answer_2": "<br>",
+    "answer_3": "<hr>",
+    "answer_4": "<hl>",
+    "right_answer": "<hr>"
+  },
+  {
+    "title": "What does the <em> tag do to the text?",
+    
+    "answer_2": "Bold text",
+    "answer_1": "Emphasizes text (usually italic)",
+    "answer_3": "Underline text",
+    "answer_4": "Changes font size",
+    "right_answer": "Emphasizes text (usually italic)"
+  },
+  {
+    "title": "What does the <strong> tag do to the text?",
+    "answer_1": "Bold text",
+    "answer_2": "Italic text",
+    "answer_3": "Small text",
+    "answer_4": "Strikethrough text",
+    "right_answer": "Bold text"
+  },
+  {
+    "title": "Which attribute is used to provide alternative text for an image?",
+    
+    "answer_3": "title",
+    "answer_2": "src",
+    "answer_4": "href",
+    "answer_1": "alt",
+    "right_answer": "alt"
+  },
+  {
+    "title": "What is the purpose of the 'action' attribute in a form tag?",
+    
+    "answer_2": "Specifies the method of sending data",
+    "answer_1": "Styles the form",
+    "answer_3": "Specifies where to send the form data",
+    "answer_4": "Creates validation",
+    "right_answer": "Specifies where to send the form data"
+  },
+  {
+    "title": "Which HTML tag is used to define a table?",
+    "answer_1": "<table>",
+    "answer_2": "<tab>",
+    "answer_3": "<tr>",
+    "answer_4": "<td>",
+    "right_answer": "<table>"
+  },
+  {
+    "title": "Which HTML tag defines a cell in a table row?",
+    
+    "answer_3": "<tr>",
+    "answer_1": "<th>",
+    "answer_2": "<td>",
+    "answer_4": "<cell>",
+    "right_answer": "<td>"
+  },
+  {
+    "title": "What is the use of the <th> tag?",
+    
+    "answer_1": "Creates a hyperlink",
+    "answer_2": "Defines a table header cell",
+    "answer_3": "Defines a section header",
+    "answer_4": "Styles a table",
+    "right_answer": "Defines a table header cell"
+  },
+  {
+    "title": "Which tag is used to insert an image in HTML?",
+    
+    "answer_2": "<image>",
+    "answer_3": "<pic>",
+    "answer_1": "<src>",
+    "answer_4": "<img>",
+    "right_answer": "<img>"
+  },
+  {
+    "title": "Which attribute specifies the URL of the image in the <img> tag?",
+    "answer_1": "src",
+    "answer_2": "href",
+    "answer_3": "url",
+    "answer_4": "link",
+    "right_answer": "src"
+  },
+  {
+    "title": "Which tag is used to define an unordered list?",
+    
+    "answer_2": "<ol>",
+    "answer_1": "<li>",
+    "answer_3": "<ul>",
+    "answer_4": "<list>",
+    "right_answer": "<ul>"
+  },
+  {
+    "title": "What tag is used for a single item in a list?",
+    "answer_1": "<li>",
+    "answer_2": "<ul>",
+    "answer_3": "<item>",
+    "answer_4": "<point>",
+    "right_answer": "<li>"
+  },
+  {
+    "title": "Which HTML tag is used to define a numbered list?",
+    "answer_1": "<ul>",
+    "answer_2": "<ol>",
+    "answer_3": "<li>",
+    "answer_4": "<list>",
+    "right_answer": "<ol>"
+  },
+  {
+  "title": "Which tag defines a hyperlink in HTML?",
+  "answer_1": "<a>",
+  "answer_2": "<link>",
+  "answer_3": "<href>",
+  "answer_4": "<url>",
+  "right_answer": "<a>"
+},
+{
+  "title": "What is the correct HTML element for inserting a line break?",
+  
+  "answer_2": "<lb>",
+  "answer_1": "<break>",
+  "answer_3": "<br>",
+  "answer_4": "<hr>",
+  "right_answer": "<br>"
+},
+{
+  "title": "Which tag is used to define a footer for a document or section?",
+  
+  "answer_2": "<bottom>",
+  "answer_3": "<foot>",
+  "answer_1": "<section-footer>",
+  "answer_4": "<footer>",
+  "right_answer": "<footer>"
+},
+{
+  "title": "What tag is used to define emphasized text?",
+  "answer_1": "<em>",
+  "answer_2": "<strong>",
+  "answer_3": "<i>",
+  "answer_4": "<italic>",
+  "right_answer": "<em>"
+},
+{
+  "title": "Which tag is used to define important text?",
+  
+  "answer_1": "<b>",
+  "answer_2": "<strong>",
+  "answer_3": "<important>",
+  "answer_4": "<em>",
+  "right_answer": "<strong>"
+},
+{
+  "title": "What is the correct tag to make a text input field in a form?",
+  "answer_1": "<input>",
+  "answer_2": "<text>",
+  "answer_3": "<textfield>",
+  "answer_4": "<forminput>",
+  "right_answer": "<input>"
+},
+{
+  "title": "Which input type is used for password fields?",
+  
+  "answer_1": "text",
+  "answer_2": "secure",
+  "answer_3": "password",
+  "answer_4": "secret",
+
+  "right_answer": "password"
+},
+{
+  "title": "Which HTML tag is used to define a dropdown list?",
+ 
+  "answer_2": "<dropdown>",
+  "answer_3": "<list>",
+  "answer_4": "<option>",
+   "answer_1": "<select>",
+  "right_answer": "<select>"
+},
+{
+  "title": "Which tag is used to define options in a dropdown list?",
+  
+  "answer_2": "<select>",
+  "answer_1": "<option>",
+  "answer_3": "<dropdown>",
+  "answer_4": "<item>",
+  "right_answer": "<option>"
+},
+{
+  "title": "Which element is used to group elements in a form?",
+  "answer_2": "<section>",
+  "answer_3": "<div>",
+  "answer_1": "<fieldset>",
+  "answer_4": "<group>",
+  "right_answer": "<fieldset>"
+}
+
 ]

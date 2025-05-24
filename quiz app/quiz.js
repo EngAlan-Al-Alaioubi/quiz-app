@@ -71,7 +71,7 @@ function getquestion(){
             creatnumquis(quistioncount)
             addquestiondata(quisobject[currentdata], quistioncount)
 
-            countdown(15, quistioncount)
+            countdown(25, quistioncount)
 
             submit.onclick = ()=>{
                 let rightanswer = quisobject[currentdata].right_answer
@@ -85,7 +85,7 @@ function getquestion(){
                 handlebuilets()
 
                 clearInterval(countdowntime)
-                countdown(15, quistioncount)
+                countdown(25, quistioncount)
                 showresult(quistioncount)
             }
         }
